@@ -45,7 +45,14 @@ xxd suspect.jpg | head
 java -jar StegExpose.jar suspect.jpg
 ```
 ## OUTPUT:
-List of Images with Steganography Detection Scores and File Signature Details
+
+<img width="907" height="450" alt="Screenshot 2025-10-04 112155" src="https://github.com/user-attachments/assets/3c095f1e-8db7-4eb9-9636-f215d459a3a2" /><img width="808" height="131" alt="Screenshot 2025-10-04 130642" src="https://github.com/user-attachments/assets/5026f8e5-50cd-46c7-b64c-7ed465fe37f4" /><img width="820" height="39" alt="Screenshot 2025-10-04 131000" src="https://github.com/user-attachments/assets/9d93d9a1-df23-450d-bb02-22a3627f2776" /><img width="1275" height="522" alt="Screenshot 2025-10-04 130119" src="https://github.com/user-attachments/assets/948e713e-a336-4759-8a61-ccc1805659af" />
+
+
+
+
+
+
 
 ## RESULT:
 Hidden data was successfully detected and file signatures were analyzed for irregularities.
